@@ -1,4 +1,4 @@
-# AI Quotas Dashboard
+# Synth Agent Quotas
 
 Local FastAPI dashboard that shows current rate limits and usage pools across AI providers.
 
